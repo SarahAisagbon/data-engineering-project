@@ -1,4 +1,4 @@
-# python-data-assessment-SarahAisagbon
+# python-data-engineering-assessment
 
 This project is to develop a data solution for a marketing firm. 
 
